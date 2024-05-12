@@ -2,8 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="purple_500">#4E055A</color>
-    <color name="purple_700">#7E378A</color>
+    <color name="purple_500">#F26F63</color>
+    <color name="purple_700">#D98179</color>
     <color name="teal_200">#21547A</color>
     <color name="teal_700">#1684D6</color>
+    <color name="bg">#D9D9D9</color>
+    <color name="lightgrey">#A6A6A6</color>
+    <color name="darkgrey">#333333</color>
+    <color name="del">#E84D1B</color>
+
 </resources>
